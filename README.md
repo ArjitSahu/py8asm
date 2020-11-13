@@ -3,6 +3,7 @@ Simple CHIP8 assembler, following a T. P. Green's modified pseudo-assembly synta
 
 ### Usage
 ```
+
 usage: py8asm.py [-h] [-o NAME] path
 
 Simple CHIP8 assembler, following the T. P. Green's pseudo-assembly syntax
